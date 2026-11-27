@@ -1,0 +1,14 @@
+# 依赖目录，体积巨大且可重新安装，不要打包
+node_modules/
+
+# 渲染临时产物
+out/
+.remotion/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器的本地配置
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
